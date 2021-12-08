@@ -1,0 +1,7 @@
+{
+  "name": "Android Discord",
+  "description": "สร้างโดย JN world ใช้ภาษา discord js  และ node",
+  "repository": "https://www.youtube.com/channel/UC1m8JxBoeuvXnryjCgvgyew",
+  "logo": "https://media.discordapp.net/attachments/779961298497830986/786130418612699176/unnamed.jpg",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
